@@ -1,4 +1,0 @@
-create database product;
-
-SELECT * FROM product.products;
-SELECT DISTINCT category FROM products;
